@@ -1,0 +1,8 @@
+special_sqlite_conn:
+  conn_type: sqlite
+  host: /tmp/sqlite.db
+  conn_id: special_sqlite_conn
+  extra: {}
+
+
+

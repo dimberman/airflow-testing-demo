@@ -1,0 +1,4 @@
+astro-sdk-python[snowflake,sqlite]
+python-dotenv
+pytest
+pytest-dotenv
